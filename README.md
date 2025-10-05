@@ -67,7 +67,7 @@ The raw benchmark results are available in CSV format:
 
 ---
 
-## 🧮 Theoretical Complexity
+## Theoretical Complexity
 
 - **Time Complexity:**  
   - Best Case: Ω(n log n)  
